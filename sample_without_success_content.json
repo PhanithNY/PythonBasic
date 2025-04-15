@@ -1,0 +1,15 @@
+{
+  "code": 300,
+  "data": {
+    "successBtn": [
+      "detail",
+      "expense",
+      "share"
+    ],
+    "successDetailBtn": [
+      "screenshot",
+      "share",
+      "expense"
+    ]
+  }
+}

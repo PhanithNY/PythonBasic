@@ -1,0 +1,37 @@
+{
+  "data": {
+    "successBtn": [
+      "detail",
+      "expense",
+      "share"
+    ],
+    "successDetailBtn": [
+      "screenshot",
+      "share",
+      "expense"
+    ],
+    "successContent": [
+      {
+        "value": "15-03-2025 | 02:10:18 PM",
+        "label_kh": "កាលបរិច្ឆេទ:",
+        "label_ch": "日期和时间：",
+        "is_shareable": false,
+        "index": 1,
+        "total": false,
+        "label_parameter": "transactionDate",
+        "label_en": "Date and Time:"
+      },
+      {
+        "value": "100004749",
+        "label_kh": "ពីគណនី:",
+        "label_ch": "从账户:",
+        "is_shareable": true,
+        "index": 2,
+        "total": false,
+        "label_parameter": "fromAccount",
+        "label_en": "From Account:"
+      }
+    ]
+  },
+  "code": "200"
+}
